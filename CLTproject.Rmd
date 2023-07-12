@@ -156,4 +156,4 @@ p + ggtitle("n = 25") +
 print(paste('mean = ', mean(my1000$k5),' sd = ',sd(my1000$k5)))
 ```
 
-The standard deviation is now one fifth of what it was in the beginning which is now 8.4 and we expected`r sd(my1000$k5)`
+The standard deviation is now one fifth of what it was in the beginning we got 8 and we expected`r sd(my1000$k5)`
